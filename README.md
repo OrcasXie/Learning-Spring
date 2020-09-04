@@ -10,3 +10,9 @@ Prepare:
 For more we can link to the official [README.md](https://github.com/spring-projects/spring-framework/blob/master/README.md) from [spring-framework](https://github.com/spring-projects/spring-framework).
 
 Of course we can build the spring modules by Gradle directly.
+
+Acknowledgement:
+
+《Spring精髓》——— 张龙
+
+《剑指Java自研框架，决胜Spring源码》——— 翔仔
